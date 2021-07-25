@@ -1,0 +1,11 @@
+body{
+    background: #333;
+    color: bisque;
+}
+h1{
+    width: 400px;
+    background: cadetblue;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
